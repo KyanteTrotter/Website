@@ -1,0 +1,31 @@
+.div1{ 
+    position: relative;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+
+}
+.div2{ 
+    position: relative;
+    background-color: blue;
+    height: 100px;
+    width: 1,000px
+
+}
+.div3{
+    position: relative;
+    left: 600px;
+    margin: 20px;
+    height: 100px;
+    width : 300px;
+    background-color: red;
+}
+.div4{
+position: relative;
+height: 100px;
+width: 1,000px;
+background-color: purple;
+}
+body{
+    background-color: black;
+}
